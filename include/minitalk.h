@@ -19,4 +19,5 @@
 # include "../libft/libft.h"
 
 void	init_sig(int sig, void (*handler)(int, siginfo_t *, void *));
+
 #endif
